@@ -1,0 +1,30 @@
+"C:\Users\davii\AppData\Local\JetBrains\CLion 2023.3.2\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Users/davii/AppData/Local/JetBrains/CLion 2023.3.2/bin/ninja/win/x64/ninja.exe" -G Ninja -S "C:\Users\davii\OneDrive - Mittuniversitetet\Skrivbordet\Universitet\Tredje år\Term_2\Period_1\Programsprålteori(DT096G)\LABB_2\Labb2(1)" -B "C:\Users\davii\OneDrive - Mittuniversitetet\Skrivbordet\Universitet\Tredje år\Term_2\Period_1\Programsprålteori(DT096G)\LABB_2\Labb2(1)\cmake-build-debug"
+-- The C compiler identification is MSVC 19.39.33520.0
+-- The CXX compiler identification is MSVC 19.39.33520.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.39.33519/bin/Hostx86/x86/cl.exe - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+CMake Warning in C:/Users/davii/OneDrive - Mittuniversitetet/Skrivbordet/Universitet/Tredje år/Term_2/Period_1/Programsprålteori(DT096G)/LABB_2/Labb2(1)/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-v83luc/CMakeLists.txt:
+  The object file directory
+
+    C:/Users/davii/OneDrive - Mittuniversitetet/Skrivbordet/Universitet/Tredje år/Term_2/Period_1/Programsprålteori(DT096G)/LABB_2/Labb2(1)/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-v83luc/CMakeFiles/cmTC_39e37.dir/./
+
+  has 226 characters.  The maximum full path to an object file is 250
+  characters (see CMAKE_OBJECT_PATH_MAX).  Object file
+
+    CMakeCXXCompilerABI.cpp.obj
+
+  cannot be safely placed under this directory.  The build may not work
+  correctly.
+
+
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.39.33519/bin/Hostx86/x86/cl.exe - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Configuring done (8.8s)
+-- Generating done (0.0s)
+-- Build files have been written to: C:/Users/davii/OneDrive - Mittuniversitetet/Skrivbordet/Universitet/Tredje år/Term_2/Period_1/Programsprålteori(DT096G)/LABB_2/Labb2(1)/cmake-build-debug
